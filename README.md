@@ -32,7 +32,8 @@ sky.coflnet.com
 
 Install Minecraft Forge 1.8.9.
 
-Download the latest SkyCofl.jar from the GitHub releases.
+Download the latest SkyCofl.jar from the [Github Releases.](https://github.com/CoflNetMod/CoflNet/releases)
+.
 
 Place it in your .minecraft/mods folder.
 
